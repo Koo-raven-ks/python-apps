@@ -1,5 +1,6 @@
 import random
 import time
+
 li = []
 while True:
     n = random.randint(5,15)
